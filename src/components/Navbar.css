@@ -1,0 +1,11 @@
+/* Navbar.css */
+nav {
+  padding: 1rem;
+  background-color: #d22727;
+}
+
+nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: black;
+}
